@@ -1,6 +1,6 @@
 Welcome to my GitHub repository! This repository contains my work as a data scientist, including data analysis, machine learning projects, and data visualization.
 
-#Repository Structure
+*Repository Structure*
 The repository is structured as follows: 👀
 
 notebooks/: This directory contains Jupyter notebooks and R scripts that showcase data analysis, modeling, and visualization. Each notebook/script is self-contained, and a detailed explanation of each step is provided.
@@ -10,11 +10,11 @@ Reports/: This directory contains project reports and presentations that summari
 #Dependencies
 The projects in this repository were developed using Python 3 and R. The following Python packages are required to run the Python scripts:
 
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 The following R packages are required to run the R scripts:
 

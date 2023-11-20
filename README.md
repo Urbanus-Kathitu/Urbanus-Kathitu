@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Urbanus Kathitu</h1>
 <h3 align="center">A data scientist equipped with diverse and promising skill-set, and proficient in multiple languages and platforms</h3>
 
-- 🌱 I’m currently learning **Machine Learning & AI**
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xvG2EmEMJ4rS1y/giphy.gif" style="max-width:100; height:auto;">
+
+  - 🌱 I’m currently learning **Machine Learning & AI**
 
 - 💬 Ask me about **Python, SQL, R, Excel, Tableau, PowerBI**
 

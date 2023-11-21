@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3oz8xvG2EmEMJ4rS1y/giphy.gif" style="max-width:100; height:auto;">
   
+- 🔭 I’m currently working on: **Data analysis challenges and becoming proficient in data cleaning**
+  
 - 🌱 I’m currently learning: **Machine Learning & AI**
 
 - 💬 Ask me about: **SQL • PowerBi • Tableau • Python • AWS • Machine Learning • R • Excel • Data Cleaning • Data Manipulation & Analysis (EDA) • Data Visualization • Data Storytelling • Python Libraries (Numpy, Pandas, SK-Learn, TensorFlow) • Statistics &  Mathematics**

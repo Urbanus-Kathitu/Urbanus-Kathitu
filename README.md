@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FnLueL6B-Osb3C7qPesITcheXBuI62nk/view?usp=sharing](https://drive.google.com/file/d/1FnLueL6B-Osb3C7qPesITcheXBuI62nk/view?usp=sharing)
 
-- ⚡ Fun fact **Sucessfully turned caffeine into code without and reported side effects (yet).**
+- ⚡ Fun fact **Iv sucessfully managed to turned caffeine into code without any reported side effects (yet).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

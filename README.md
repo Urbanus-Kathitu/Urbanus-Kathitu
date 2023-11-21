@@ -3,16 +3,14 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oz8xvG2EmEMJ4rS1y/giphy.gif" style="max-width:100; height:auto;">
+  
+- 🌱 I’m currently learning: **Machine Learning & AI**
 
-  - 🌱 I’m currently learning **Machine Learning & AI**
+- 💬 Ask me about: **SQL • PowerBi • Tableau • Python • AWS • Machine Learning • R • Excel • Data Cleaning • Data Manipulation & Analysis (EDA) • Data Visualization • Data Storytelling • Python Libraries (Numpy, Pandas, SK-Learn, TensorFlow) • Statistics &  Mathematics**
 
-- 💬 Ask me about **Python, SQL, R, Excel, Tableau, PowerBI**
+- 📫 How to reach me: **peterkathitu@gmail.com**
 
-- 📫 How to reach me **peterkathitu@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FnLueL6B-Osb3C7qPesITcheXBuI62nk/view?usp=sharing](https://drive.google.com/file/d/1FnLueL6B-Osb3C7qPesITcheXBuI62nk/view?usp=sharing)
-
-- ⚡ Fun fact **Iv sucessfully managed to turned caffeine into code without any reported side effects (yet).**
+- ⚡ Fun fact: **Iv sucessfully managed to turned caffeine into code without any reported side effects (yet).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

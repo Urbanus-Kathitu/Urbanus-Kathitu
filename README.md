@@ -6,13 +6,16 @@
   
 - 🔭 I’m currently working on: **Applied data science labs dealing with real-world challenges (https://www.wqu.edu/programs/applied-ds-lab/)**
   
-- 🌱 I’m currently learning: **Machine Learning & AI**
+- 🌱 I’m currently learning: **Sharpening my skills in Python,R, SQL, Machine Learning & AI**
 
 - 💬 Ask me about: **SQL • PowerBi • Tableau • Python • AWS • Machine Learning • R • Excel • Data Cleaning • Data Manipulation & Analysis (EDA) • Data Visualization • Data Storytelling • Python Libraries (Numpy, Pandas, SK-Learn, TensorFlow) • Statistics &  Mathematics**
 
 - 📫 How to reach me: **peterkathitu@gmail.com**
 
-- ⚡ Fun fact: **Iv sucessfully managed to turned caffeine into code without any reported side effects (yet).**
+- ⚡ Fun fact: **On days I feel my imposter syndrome kickcing in, I pull out my trench coat and fake mustache.**
+
+                               ME: They'll never suspect a thing!
+<p>&#128513;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
